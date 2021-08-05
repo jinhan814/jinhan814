@@ -4,7 +4,7 @@
 - Korea University, School of Mechanical Engineering
 - Algorithm / Machine Learning Learner
 
-## ✒ Languages
+## 💻⌨ Languages
 
 - C / C++
 - Python
