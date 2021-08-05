@@ -18,10 +18,12 @@
 - BOJ: [jinhan814](https://www.acmicpc.net/user/jinhan814)
 - Solved.ac: [jinhan814](https://solved.ac/profile/jinhan814)
 
-## 📁 Algorithm Study
+## 📁 Study
+
+### Algorithm Study
 
 - /* sth here */
 
-## 📁 Machine Learning Study
+### Machine Learning Study
 
 - /* sth here */
