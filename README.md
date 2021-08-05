@@ -20,10 +20,10 @@
 
 ## 📁 Study Note
 
-#### Algorithm Study
+### Algorithm Study
 
 - /* sth here */
 
-#### Machine Learning Study
+### Machine Learning Study
 
 - /* sth here */
