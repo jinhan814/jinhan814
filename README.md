@@ -13,7 +13,7 @@
 
 - [Jinhan's Note](https://blog.naver.com/jinhan814)
 
-## 🏆 BOJ / Solved.ac
+## 📃 BOJ / Solved.ac
 
 - BOJ: [jinhan814](https://www.acmicpc.net/user/jinhan814)
 - Solved.ac: [jinhan814](https://solved.ac/profile/jinhan814)
@@ -27,3 +27,7 @@
 ### Machine Learning Study
 
 - /* link here */
+
+## 🏆 Cards
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhan814)](https://solved.ac/jinhan814)
