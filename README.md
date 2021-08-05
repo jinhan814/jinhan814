@@ -9,7 +9,7 @@
 - C / C++
 - Python
 
-## 💎 BOJ / Solved.ac
+## 📄 BOJ / Solved.ac
 
 - BOJ: [jinhan814](https://www.acmicpc.net/user/jinhan814)
 - Solved.ac: [jinhan814](https://solved.ac/profile/jinhan814)
