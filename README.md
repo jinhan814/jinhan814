@@ -13,7 +13,7 @@
 
 ## 🗨 Blog
 
-- [Jinhan's Note / NAVER Blog](https://blog.naver.com/jinhan814)
+- [Jinhan's Note / Naver Blog](https://blog.naver.com/jinhan814)
 
 ## 📃 BOJ / Solved.ac
 
