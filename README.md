@@ -2,7 +2,7 @@
 
 - Hi my name is Jinhan Park.
 - Korea University, School of Mechanical Engineering
-- Algorithm / Machine Learning Learner
+- Algorithm Learner / Machine Learning Engineer
 
 ## 💻 Skills
 
@@ -37,3 +37,4 @@
 ## 🏆 Cards
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhan814)](https://solved.ac/jinhan814)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhan814)](https://github.com/anuraghazra/github-readme-stats)
