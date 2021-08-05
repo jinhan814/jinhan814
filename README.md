@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&text=%20JinHanPark%20%20&height=200&fontSize=100&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=90CAF9&text=%20JinHanPark%20%20&height=200&fontSize=100&fontColor=FFFFFF)
 
 ## ✒ Languages
 
