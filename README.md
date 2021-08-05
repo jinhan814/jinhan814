@@ -22,8 +22,8 @@
 
 ### Algorithm Study
 
-- /* sth here */
+- /* link here */
 
 ### Machine Learning Study
 
-- /* sth here */
+- /* link here */
