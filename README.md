@@ -14,11 +14,11 @@
 - BOJ: [jinhan814](https://www.acmicpc.net/user/jinhan814)
 - Solved.ac: [jinhan814](https://solved.ac/profile/jinhan814)
 
-## 📒 Blog
+## 🗨 Blog
 
 - [Jinhan's Note](https://blog.naver.com/jinhan814)
 
-## ⚛ Algorithm Study
+## 💊 Algorithm Study
 
 - /* sth here */
 
