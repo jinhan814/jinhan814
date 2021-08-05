@@ -11,6 +11,7 @@
 
 ### Etc
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+- 
 - <img src="https://img.shields.io/badge/WolframMathematica-DD1100.svg?style=flat-square&logo=Git&logoColor=white"/>
 
 ## 🗨 Blog
