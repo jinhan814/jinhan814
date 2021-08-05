@@ -1,4 +1,4 @@
-## 👋 Profile
+## 👋 About Me
 
 - Hi my name is Jinhan Park.
 - Korea University, School of Mechanical Engineering
@@ -6,8 +6,8 @@
 
 ## 💻 Languages
 
-- C / C++
-- Python
+- <img src="https://img.shields.io/badge/C-FBC02D?style=flat-square&logo=C&logoColor=white"/> / <img src="https://img.shields.io/badge/C++-1E88E5?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## 🗨 Blog
 
