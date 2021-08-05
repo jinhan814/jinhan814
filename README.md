@@ -6,7 +6,7 @@
 
 ## ✒ Languages
 
-- C <img src="https://img.shields.io/badge/-FBC02D?style=flat-square&logo=C&logoColor=white"/>
+- C <img src="https://img.shields.io/badge/-FBC02D?&logo=C&logoColor=white"/>
 - C++ <img src="https://img.shields.io/badge/-1E88E5?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 - Python <img src="https://img.shields.io/badge/-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
