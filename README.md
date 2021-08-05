@@ -22,9 +22,10 @@
 
 ## 📁 Study Note
 
-- Algorithm Study
-
-- Machine Learning Study
+### Algorithm Study
+- /* link here */
+### Machine Learning Study
+- /* link here */
 
 ## 🏆 Cards
 
