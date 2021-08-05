@@ -1,8 +1,7 @@
 ## 👋 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Jinhan🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20my%20name%20is%20Jinhan🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
 
-- Hi my name is Jinhan Park.
 - Korea University, School of Mechanical Engineering
 - Algorithm Learner / Machine Learning Engineer
 
