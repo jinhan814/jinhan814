@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Jinhan%20Park🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Jinhan%20Park%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Korea University, School of Mechanical Engineering
 - Algorithm Learner / Machine Learning Engineer
 - Boostcamper of [Boostcamp AI Tech 2nd](https://boostcamp.connect.or.kr/about.html) by NAVER Connect Foundation
