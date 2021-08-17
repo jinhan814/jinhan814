@@ -22,11 +22,11 @@
 
 ## 📁 Study Note
 
-### Algorithm Study
+### Algorithm Note
 
 - [FastIO](https://github.com/jinhan814/FastIO) : FastIO implementation for cin, cout.
 
-### Machine Learning Study
+### Machine Learning Note
 
 - [NN_implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of multi-layer feed forward neural networks with back propagation.
 
