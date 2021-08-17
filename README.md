@@ -24,7 +24,7 @@
 
 ### Algorithm Study
 
-- /* Link Here */
+- [FastIO](https://github.com/jinhan814/FastIO) : FastIO implementation for cin, cout.
 
 ### Machine Learning Study
 
