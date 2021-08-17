@@ -23,9 +23,12 @@
 ## 📁 Study Note
 
 ### Algorithm Study
-- /* link here */
+
+- /* Link Here */
+
 ### Machine Learning Study
-- /* link here */
+
+- [NN_implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of multi-layer feed forward neural networks with back propagation.
 
 ## 🏆 Cards
 
