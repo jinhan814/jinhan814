@@ -28,7 +28,7 @@
 
 ### Machine Learning Note
 
-- [NN_implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network(MLP)
+- [NN_implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
 
 ## 🏆 Cards
 
