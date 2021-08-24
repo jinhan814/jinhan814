@@ -24,7 +24,7 @@
 
 ### Algorithm Note
 
-- [BOJ](https://github.com/jinhan814/BOJ) : BOJ solution codes
+- [BOJ](https://github.com/jinhan814/BOJ) : BOJ solution code
 - [FastIO](https://github.com/jinhan814/FastIO) : FastIO implementation for cin, cout.
 
 ### Machine Learning Note
