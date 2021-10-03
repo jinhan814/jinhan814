@@ -26,10 +26,11 @@
 
 - [BOJ](https://github.com/jinhan814/BOJ) : BOJ solution code
 - [FastIO](https://github.com/jinhan814/FastIO) : FastIO implementation for cin, cout.
+- [Algorithm_Implementation](https://github.com/jinhan814/algorithms-implementation) : Algorithm implementation using cpp.
 
 ### Machine Learning Note
 
-- [NN_implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
+- [NN_Implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
 
 ## 🏆 Cards
 
