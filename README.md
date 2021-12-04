@@ -32,6 +32,7 @@
 ### Machine Learning Note
 
 - [NN_Implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
+- [PyTorch-MNIST](https://github.com/jinhan814/PyTorch-MNIST) : MNIST Dataset Learning Code using CNN.
 
 ## 🏆 Cards
 
