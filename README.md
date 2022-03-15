@@ -34,6 +34,7 @@
 - [NN_Implementation](https://github.com/jinhan814/NN_implementation) : Line-by-line implementation of neural network. (Multi-Layer Perceptron)
 - [PyTorch-MNIST](https://github.com/jinhan814/PyTorch-MNIST) : MNIST Dataset Learning Code using CNN.
 - [Sketch2Idol](https://github.com/jinhan814/Sketch2Idol) : Hand-Drawn Sketches to Face Images Project using GAN.
+- [GAN_Implementation](https://github.com/jinhan814/GAN-implementation) : GAN Implementation using PyTorch.
 - [PyTorch-GAN-Study](https://github.com/jinhan814/PyTorch-GAN-Study) : GAN Study using PyTorch.
 
 ## 🏆 Cards
