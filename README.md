@@ -4,6 +4,7 @@
 - Korea University, School of Mechanical Engineering
 - Algorithm Learner / Machine Learning Engineer
 - Boostcamper of [Boostcamp AI Tech 2nd](https://boostcamp.connect.or.kr/about.html) by NAVER Connect Foundation
+- Samsung Software Membership
 
 ## 💻 Skills
 
